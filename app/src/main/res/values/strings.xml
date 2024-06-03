@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">One Click Drive Assesment</string>
+    <string name="theme_toggle_description">Toggle between light and dark themes</string>
+
+</resources>
